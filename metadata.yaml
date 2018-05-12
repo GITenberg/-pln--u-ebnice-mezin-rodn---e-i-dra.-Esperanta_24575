@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26591
     wikipedia: http://eo.wikipedia.org/wiki/Francisko_Valdomiro_Lorenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24575#-pln--u-ebnice-mezin-rodn---e-i-dra.-Esperanta
 gutenberg_bookshelf:
 - Esperanto
 - Language Education
